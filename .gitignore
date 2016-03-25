@@ -1,3 +1,13 @@
+# numpy binary files
+*.npy
+
+# tmp files of vim
+*.swp
+
+# project files for eclipse
+.project
+.pydevproject
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

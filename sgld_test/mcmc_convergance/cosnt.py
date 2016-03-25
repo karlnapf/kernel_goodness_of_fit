@@ -1,0 +1,17 @@
+__author__ = 'kcx'
+
+
+CHAIN_SIZE = 200
+SGLD_CHAIN_SIZE = 10000
+
+
+NO_OF_SAMPELS_IN_TEST = 200
+
+NUMBER_OF_TESTS = 1
+
+SEED = 32
+
+
+
+
+SAMPLE_SIZE = 200
